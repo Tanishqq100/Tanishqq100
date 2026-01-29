@@ -1,16 +1,23 @@
-## Hi there 👋
+Hey, I’m Tanishq 
 
-<!--
-**Tanishqq100/Tanishqq100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student who enjoys building things that actually work.
+Most of my work is in Python and JavaScript, and I like backend logic,
+automation, and problem-solving more than flashy UI.
 
-Here are some ideas to get you started:
+What I work with
+- Python, JavaScript, Java
+- Git & GitHub
+- Pandas, NumPy
+- Backend logic, automation, APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stuff I’ve built
+- House of Holmes**  
+  Real-world web development work for a fashion/interior design brand.
+  Learned how production code actually works.
+
+- Autonomous Workflow Agent**  
+  A Python project where I experimented with automation and task execution.
+
+Right now
+I’m focused on improving my backend skills, writing cleaner code,
+and turning small ideas into solid projects.
